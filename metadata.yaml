@@ -5,6 +5,9 @@ contributor:
     agent_name: Dulin, Dorothy
     gutenberg_agent_id: '53386'
     url: http://www.gutenberg.org/2009/agents/53386
+covers:
+- cover_type: archival
+  image_path: 69075-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Laura Rountree
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '3469'
     url: http://www.gutenberg.org/2009/agents/3469
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69075#The-fairy-babies
 gutenberg_issued: '2022-09-30'
 identifiers:
   gutenberg: '69075'
